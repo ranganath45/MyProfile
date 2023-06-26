@@ -1,0 +1,345 @@
+.sec{
+  border: 0px solid;
+  height: 20px;
+  width: 100%;
+  position: fixed;
+  margin-top: -10px;
+  
+}
+.sec1{
+  background-color: white;
+  border: 0px solid rgb(245, 241, 241);
+  height: 50px;
+  display: flex;
+  
+}
+.sr{
+  border: 0px solid black;
+  width: 300px;
+  text-align: center;
+  align-items: center;
+  padding-top: 14px;
+  color: black ;
+   font-weight: bolder;
+   font-size: larger;
+}
+.s1{
+  text-decoration: none;
+   color: black ;
+   font-weight: bolder;
+}
+.sec2{
+  display:flex;
+  width: 50%;
+  margin-left: auto;
+  margin-right: 10px;
+  justify-content: space-between; 
+}
+/*-------------------------------------------------------*/
+.sec21{
+ border: 0px solid black;
+ height: 500px;
+ padding-left: 50px;
+ color: white;
+ margin-top: 20px;
+ 
+}
+.s212{
+  border: 0px solid black;
+  background-image: url(./peakpx\ \(2\).jpg);
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin-top: -50px;
+
+}
+.s21{
+  font-size: 50px;
+  font-family:'Courier New', Courier, monospace;
+  padding-top: 100px;
+  word-spacing: -5px;
+  
+}
+.s211{
+  border: 2px solid black;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  padding-top: 10px;
+  text-decoration: none;
+  color: black ;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+/*********************************************************/
+#sec31{
+  border: 0px solid black;
+  height: 600px;
+  width: 700px;
+  margin-left: 270px;
+  text-align: center;
+  margin-top: 150px;
+}
+.ss3{
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 350px;
+  height: 350px;
+}
+.ss3 img{
+  width:100%;
+  height:120%;
+  object-fit: cover;
+}
+
+.s31{
+  font-size: 25px;
+  font-weight: 5px;
+  padding-bottom: 20px;
+}
+.s311{
+  font-size: 20px;
+  font-weight: 5px;
+  padding-bottom: 20px;
+}
+.s321{
+  font-weight: bold;
+  font-family:sans-serif;
+  margin-top: 20px;
+}
+.s312{
+  border: 0px solid black;
+  height: 40px;
+  width: 200px;
+  margin-left: 270px;
+  color: blue;
+  font-size: 30px;
+  margin-top: 20px;
+}
+/*********************************************/
+#sec41{
+  border: 0px solid black;
+  height: 500px;
+  margin-top: 50px;
+  background-image: url(./photo-1471107340929-a87cd0f5b5f3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.s4{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 100px;
+  color: white;
+  padding-top: 80px;
+}
+.s41{
+  display: flex;
+  margin-left: 150px;
+  color: black;
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight:bolder;
+
+}
+.s411{
+  border: 0px solid black;
+  height: 100px;
+  width: 400px;
+  padding-left: 40px;
+  padding-right: 50px;
+  text-align: center;
+  margin-top: 50px;
+  
+}
+/*********************************************/
+#sec51{
+  border: 0px solid black;
+  height: 550px;
+  margin-top: 100px;
+}
+.s5{
+  font-size: 27px;
+  text-align: center;
+  padding-top: 50px;
+}
+.s51{
+  text-align: center;
+  padding-top: 30px;
+}
+.s52{
+  border: 2px solid rgb(203, 200, 200);
+  height: 270px;
+  width: 250px;
+  box-shadow: 2px 2px 2px rgb(164, 156, 156);
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.s52:hover{
+  background: whitesmoke;
+  box-shadow: 3px 3px 3px 3px black;
+
+}
+.s512{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.s522{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.s523{
+  margin-top: 10px;
+  color: rgb(144, 141, 141);
+}
+.s524{
+  margin-top: 15px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/***************************************************/
+#s6{
+  border: 0px solid black;
+  height: 500px ;
+  padding-top: 100px;
+}
+.s61{
+  margin-left: 550px;
+  font-size: 30px;
+}
+.s611{
+  margin-top: 50px;
+  border: 0px solid red;
+  width: 500px;
+  margin-left: 350px;
+  font-size: 18px;
+}
+.box{
+  border: 0px solid gray;
+  height: 25px;
+  width: 500px;
+  margin-bottom: 20px;
+}
+.box:hover{
+  border: 1px solid gray;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+.box1{
+  border: 0px solid black;
+  height: 25px;
+  width: 300px;
+  color: black;
+ text-align: center;
+  background-color: gray;
+  
+}
+.box2{
+  border: 0px solid black;
+  height: 25px;
+  width: 300px;
+  color: black;
+ text-align: center;
+  background-color: gray;
+}
+.box3{
+  border: 0px solid black;
+  height: 25px;
+  width: 400px;
+  color: black;
+ text-align: center;
+  background-color: gray;
+}
+
+.box4{
+  border: 0px solid black;
+  height: 25px;
+  width: 350px;
+  color: black;
+ text-align: center;
+  background-color: gray;
+}
+/**************************************/
+
+#s7{
+  margin-top: 30px;
+  border: 0px solid black;
+  height: 500px;
+  background-image: url(./contact.jpg);
+}
+.s71{
+text-align: center;
+}
+.s711{
+  margin-top:40px;
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+  font-weight: bolder;
+}
+.s712{
+  margin-top: 30px;
+  font-size: 20px;
+  color: white;
+  padding-top: 0px;
+}
+.s72{
+  margin-top: 270px;
+  margin-left: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  font-size: larger;
+}
+/*****************************************/
+#s8{
+  border: 1px solid black;
+  text-align: center;
+  height: 300px;
+  background-color: black;
+}
+.s81{
+  border: 2px solid black;
+  background-color: gray;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  padding-top: 15px;
+  text-decoration: none;
+  color: black ;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-left: 520px;
+  margin-top: 120px;
+ margin-bottom: 30px;
+}
+.s82{
+  color: white;
+  margin-top: 30px;
+  font-size: 20px;
+}
+#s811{
+  margin-right:10px;
+  height: 30px;
+  width: 30px;
+}
+#s812{
+
+  margin-right: 80px;
+  height: 30px;
+  width: 30px;
+}
+#s813{
+  margin-left: -65px;
+  height: 30px;
+  width: 30px;
+}
+#s814{
+  margin-left: 10px;
+  height: 30px;
+  width: 30px;
+}
+/*****************************/
